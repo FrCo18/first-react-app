@@ -19,3 +19,5 @@ const Counter = function (){
        </div>
     );
 }
+
+export default Counter;
